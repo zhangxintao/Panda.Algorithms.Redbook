@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bags_Queues_Stacks", "Bags_Queues_Stacks", "{B6E94B0A-AB39-481D-8F38-CD0B91F9ECA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms.Bag", "Algorithms.Bag\Algorithms.Bag.csproj", "{A507152B-2BD7-423E-855B-4CC6F9DAFA8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms.Queue", "Algorithms.Queue\Algorithms.Queue.csproj", "{16FB71BA-8969-46A8-AE36-50AB2FCA8B91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms.Stack", "Algorithms.Stack\Algorithms.Stack.csproj", "{AE4CE8DB-83FB-49FE-9A0C-2D2E87A411C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A507152B-2BD7-423E-855B-4CC6F9DAFA8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A507152B-2BD7-423E-855B-4CC6F9DAFA8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A507152B-2BD7-423E-855B-4CC6F9DAFA8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A507152B-2BD7-423E-855B-4CC6F9DAFA8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16FB71BA-8969-46A8-AE36-50AB2FCA8B91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16FB71BA-8969-46A8-AE36-50AB2FCA8B91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16FB71BA-8969-46A8-AE36-50AB2FCA8B91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16FB71BA-8969-46A8-AE36-50AB2FCA8B91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE4CE8DB-83FB-49FE-9A0C-2D2E87A411C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE4CE8DB-83FB-49FE-9A0C-2D2E87A411C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE4CE8DB-83FB-49FE-9A0C-2D2E87A411C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE4CE8DB-83FB-49FE-9A0C-2D2E87A411C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A507152B-2BD7-423E-855B-4CC6F9DAFA8C} = {B6E94B0A-AB39-481D-8F38-CD0B91F9ECA0}
+		{16FB71BA-8969-46A8-AE36-50AB2FCA8B91} = {B6E94B0A-AB39-481D-8F38-CD0B91F9ECA0}
+		{AE4CE8DB-83FB-49FE-9A0C-2D2E87A411C3} = {B6E94B0A-AB39-481D-8F38-CD0B91F9ECA0}
+	EndGlobalSection
+EndGlobal
