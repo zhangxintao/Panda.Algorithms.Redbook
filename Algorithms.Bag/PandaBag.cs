@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 
 namespace Algorithms.Bag
 {
-    public class Bag<TItem> : IBag<TItem> where TItem : class
+    public class PandaBag<TItem> : IBag<TItem> where TItem : class
     {
-        public Bag()
+        public PandaBag()
         {
             
         }
